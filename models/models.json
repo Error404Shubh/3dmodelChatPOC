@@ -1,0 +1,25 @@
+[
+    {
+        "model_name": "Blue Fabric",
+        "model_path": "models/Blue_fabric.glb",
+        "model_img": "models/Blue_fabric.png",
+        "islegs": false
+    },
+    {
+        "model_name": "Turquoise with Chrome Legs",
+        "model_path": "models/Turquoish_with_chrome_legs.glb",
+        "model_img": "models/Turquoish_with_chrome_legs.png",
+        "islegs": true
+    },
+    {
+        "model_name": "Leather Seat",
+        "model_path": "models/Leather_seat.glb",
+        "model_img": "models/Leather_seat.png",
+        "islegs": true,
+        "legs_path":[{
+                "model_name": "Leather Seat Chrome Legs",
+                "model_path": "models/Chrome_legs.glb",
+                "model_img": "models/Chrome_colour.png" 
+        }]
+    }
+]
